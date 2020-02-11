@@ -1,2 +1,1 @@
-stack-name: node10-sam-template-path
-template-path: templates/template.yaml
+stack-name: node-sam-template-path
